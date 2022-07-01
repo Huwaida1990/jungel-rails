@@ -111,3 +111,15 @@ form.button_to {
 .text-danger {
   color: #f38792 !important;
 }
+
+.order-detail {
+  overflow: hidden;
+  width: 50%;
+  margin: auto;
+  height: 500px;
+
+  img{
+    width: 100%; 
+    object-fit: contain;
+  }
+}
